@@ -1,0 +1,12 @@
+setup.py
+FastLZeroSpikeInference/__init__.py
+FastLZeroSpikeInference/fast.py
+FastLZeroSpikeInference/utils.py
+FastLZeroSpikeInference.egg-info/PKG-INFO
+FastLZeroSpikeInference.egg-info/SOURCES.txt
+FastLZeroSpikeInference.egg-info/dependency_links.txt
+FastLZeroSpikeInference.egg-info/top_level.txt
+src/ARFPOP.cpp
+src/FitSegmentModel.cpp
+src/funPieceListLog.cpp
+src/python_interface.cpp

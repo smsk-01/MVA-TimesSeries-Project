@@ -1,0 +1,27 @@
+2018.05-05
+---
+
+Refactored code: 
+
+1. ARFPOP is now estimate_spikes. Returned list is slightly refactored!
+2. New utility functions for plotting, printing fits, and simulating according to 
+and AR(1) model. 
+3. New function estimate_calcium to estimate the calcium concentration after estimate_spikes is run. 
+
+2018.05-03
+---
+
+Major updates to the package:
+
+1. Updated constrained and unconstrained models for better numerical stability over long periods of no neural activity 
+
+2. Require LZeroSpikeInference as dependency 
+
+3. Remove cross validation utility
+
+2018.03-02
+----
+
+Updated to avoid numerical instabilities 
+
+

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: FastLZeroSpikeInference
+Version: 2018.11.28
+Summary: Python wrapper for FastLZeroSpikeInference
+Home-page: https://github.com/jewellsean/FastLZeroSpikeInference
+Author: Sean Jewell
+Author-email: swjewell@uw.edu
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
